@@ -1,6 +1,6 @@
 # Flashcard Project_V1
 
-## what is this project?
+## What is this project?
 
 - This project is designed for people who want to learn ***Dutch***.
 - The application allows you to measure your Dutch vocabulary.
